@@ -13,7 +13,7 @@
       "description": "papox Running Minecraft 26.3 (Fabric v0.19.5)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "srvrmaldito.aternos.me",
       "minecraftVersion": "26.3",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",

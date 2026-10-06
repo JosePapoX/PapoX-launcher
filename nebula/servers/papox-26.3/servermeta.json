@@ -5,7 +5,7 @@
     "name": "papox (Minecraft 26.3)",
     "description": "papox Running Minecraft 26.3 (Fabric v0.19.5)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "localhost:25565",
+    "address": "srvrmaldito.aternos.me",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
