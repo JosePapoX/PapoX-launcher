@@ -114,6 +114,16 @@
             "url": "https://raw.githubusercontent.com/JosePapoX/PapoX-launcher/main/nebula/servers/papox-26.3/fabricmods/required/fabric-api-0.162.0+26.3.jar",
             "MD5": "4491ab1b808b69f3d7ff97cc75536b85"
           }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.9.3-alpha.1+mc26.3@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1911459,
+            "url": "https://raw.githubusercontent.com/JosePapoX/PapoX-launcher/main/nebula/servers/papox-26.3/fabricmods/required/sodium-fabric-0.9.3-alpha.1+mc26.3.jar",
+            "MD5": "7fa8ba0b19e6ce03b13d9e3ef06b344e"
+          }
         }
       ]
     }
