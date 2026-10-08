@@ -2,8 +2,26 @@
   {
     "tipo": "launcher",
     "fecha": "08/10/2026",
-    "titulo": "Papo Launcher 2.2.2",
-    "texto": "Actualizaciones automáticas, nuevo panel de novedades y fondo que se actualiza solo."
+    "titulo": "Papo Launcher 2.3.0",
+    "texto": "Diseño renovado: fondo de cerezos, hojas cayendo y tu skin en 3D con capa, que puedes girar con el mouse. Todo en español latino."
+  },
+  {
+    "tipo": "launcher",
+    "fecha": "08/10/2026",
+    "titulo": "Más fluido",
+    "texto": "El launcher consume menos recursos: menos lag al abrir, en pantalla completa y al moverte entre los ajustes."
+  },
+  {
+    "tipo": "launcher",
+    "fecha": "08/10/2026",
+    "titulo": "Entra sin cuenta oficial",
+    "texto": "Ahora puedes jugar solo con tu nombre de usuario, y elegir la skin de otro jugador para la vista previa."
+  },
+  {
+    "tipo": "launcher",
+    "fecha": "08/10/2026",
+    "titulo": "Se actualiza solo",
+    "texto": "El launcher descarga e instala sus actualizaciones. El fondo, el logo y estas novedades también cambian sin reinstalar nada."
   },
   {
     "tipo": "mod",
