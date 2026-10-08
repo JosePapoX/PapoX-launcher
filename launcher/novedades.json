@@ -1,0 +1,14 @@
+[
+  {
+    "tipo": "launcher",
+    "fecha": "08/10/2026",
+    "titulo": "Papo Launcher 2.2.2",
+    "texto": "Actualizaciones automáticas, nuevo panel de novedades y fondo que se actualiza solo."
+  },
+  {
+    "tipo": "mod",
+    "fecha": "07/10/2026",
+    "titulo": "Fabric API",
+    "texto": "Mod base necesario para el resto de los mods."
+  }
+]
