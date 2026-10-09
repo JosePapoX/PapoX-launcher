@@ -116,6 +116,16 @@
           }
         },
         {
+          "id": "yalter.mousetweaks:mousetweaks:2.31@jar",
+          "name": "Mouse Tweaks",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 74569,
+            "url": "https://raw.githubusercontent.com/JosePapoX/PapoX-launcher/main/nebula/servers/papox-26.3/fabricmods/required/MouseTweaks-fabric-mc26.3-2.31.jar",
+            "MD5": "1ca140350930efc65fa6e8bd8177a16f"
+          }
+        },
+        {
           "id": "net.caffeinemc.mods:sodium:0.9.3-alpha.1+mc26.3@jar",
           "name": "Sodium",
           "type": "FabricMod",
